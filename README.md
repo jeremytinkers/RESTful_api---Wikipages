@@ -17,4 +17,4 @@ If running locally then,  then
 >* Enter node server.js to get the server up and running!
 ---
 
-A local RESTful api that allows for the access, creation, deletion and updation of articles, akin to wikipedia. (A personal play/test on the conecpt of REST) Tested, ran on Postman and visualized on Robo 3T.
+A local RESTful api that allows for the access, creation, deletion and updation of articles, akin to wikipedia. (A personal play/test on the conecpt of REST) Tested and run on Postman. Databases visualized with the aid of Robo 3T.
